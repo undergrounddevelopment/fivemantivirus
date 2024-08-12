@@ -44,7 +44,7 @@ At this stage, its armageddon and all files within the server are compromised me
 
 # Other things you can do to prevent being attacked by malware
 
-Consider adding the [Warden](https://discord.com/invite/jeFeDRasfs) to your discord server. Warden is a great resource that can help remove cheaters and leakers (people who participate in sharing leaked paid resources) from your community or support hack products like Cipher. 
+Consider adding the [UNDERGROUND DEVELOPMENTS](https://discord.com/invite/undergrounddevelopments) to your discord server. UNDERGROUND DEVELOPMENTS is a great resource that can help remove cheaters and leakers (people who participate in sharing leaked paid resources) from your community or support hack products like Cipher. 
 
 Make sure to install the latest updates of whatever framework you are using for 
 
@@ -52,7 +52,7 @@ Make sure to install the latest updates of whatever framework you are using for
 
 [QBCore](https://github.com/qbcore-framework/qb-core) | [QBCore Discord](https://discord.gg/qbcore) 
 
-Buy resources from only reputable places that you feel comfortable purchasing from either Tebex listed stores or from places like [Modit](https://modit.store/), if you're unsure about a store, perhaps ask for guidance on the Warden discord. These people are great for pointing you to good, honest resource creators.
+Buy resources from only reputable places that you feel comfortable purchasing from either Tebex listed stores or from places like [Modit](https://modit.store/), if you're unsure about a store, perhaps ask for guidance on the UNDERGROUND DEVELOPMENTS discord. These people are great for pointing you to good, honest resource creators.
 
 Be extremely sketchy on code you get that is encrypted or downloaded from shady sources.
 
