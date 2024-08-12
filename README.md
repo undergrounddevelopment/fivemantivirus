@@ -52,7 +52,7 @@ Make sure to install the latest updates of whatever framework you are using for
 
 [QBCore](https://github.com/qbcore-framework/qb-core) | [QBCore Discord](https://discord.gg/qbcore) 
 
-Buy resources from only reputable places that you feel comfortable purchasing from either Tebex listed stores or from places like [Modit](https://modit.store/), if you're unsure about a store, perhaps ask for guidance on the UNDERGROUND DEVELOPMENTS discord. These people are great for pointing you to good, honest resource creators.
+Buy resources from only reputable places that you feel comfortable purchasing from either Tebex listed stores or from places like [UNDERGROUND DEVELOPMENTS](https://LEAKEDS.LINK), if you're unsure about a store, perhaps ask for guidance on the UNDERGROUND DEVELOPMENTS discord. These people are great for pointing you to good, honest resource creators.
 
 Be extremely sketchy on code you get that is encrypted or downloaded from shady sources.
 
